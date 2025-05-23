@@ -55,7 +55,7 @@ All inputs and outputs are handled through the GUI during runtime.
 | Maila Yruma | [@maila02](https://github.com/maila02) |
 | James Angeles | [@Jamesangeles-byte](https://github.com/Jamesangeles-byte) |
 | Edward Joseph Basilonia | [@EJB0624](https://github.com/EJB0624) |
-| Joyce Ann Rodaje | []() | [@yukmwiu](https://github.com/yukmwiu)|
+| Joyce Ann Rodaje | [@yukmwiu](https://github.com/yukmwiu)|
 
 ---
 
