@@ -1,7 +1,9 @@
 # **MotorPH Employee Application**
 
-## 📌 Project Overview  
+## 📌 **Project Overview**
+
 This project is a simple Java GUI application that calculates the total grade and corresponding GPA based on milestone scores and a terminal assessment. It validates inputs to ensure values are within allowed ranges and displays the final grade in a numerical GPA system (1.0 to 5.0 scale).
+
 ---
 
 ## 📊 **Expected Output**  
